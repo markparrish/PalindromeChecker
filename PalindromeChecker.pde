@@ -30,7 +30,7 @@ public String reverse(String str)
     {
       sNew = c + sNew;
     }
-    System.out.println(sNew);
+    
     return sNew;
 }
 
